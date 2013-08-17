@@ -12,6 +12,3 @@ function addGlobalStyle(css){
 //changes the background
 addGlobalStyle('body, body {background: #000000 url(http://dl.dropbox.com/u/61594284/Plug.Pony%20Backgrounds/TS.png) no-repeat;}');
 addGlobalStyle('#room-wheel, #room-wheel {height: 0;}');
-
-        RoomUser.audience.roomElements = [];
-    RoomUser.redraw();
